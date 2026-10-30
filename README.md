@@ -1,8 +1,8 @@
-C Looping Statements Practice
+C programs Practice
 
 About This Repository
 
-This repository contains my C programming practice programs focused on looping statements.
+This repository contains my C programming practice programs
 
 Topics Covered
 
@@ -14,6 +14,10 @@ Topics Covered
 - Pattern Printing
 - Mathematical Problems
 - Menu-Driven Programs
+- Pointers 
+- Arrays 
+- Strings 
+- Functions
 
 Difficulty Levels
 
@@ -23,12 +27,10 @@ Difficulty Levels
 
 Objective
 
-My goal is to improve my logical thinking, problem-solving skills, and understanding of loops in C programming.
+My goal is to improve my logical thinking, problem-solving skills, and developing code in C programming.
 
 Language
 
 C Programming
 
-Progress
-
-I will continue adding programs as I learn and practice new concepts
+I will continue adding programs as I learn and practice new concept.
