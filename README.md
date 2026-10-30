@@ -31,4 +31,4 @@ C Programming
 
 Progress
 
-I will continue adding programs as I learn and practice new concepts.
+I will continue adding programs as I learn and practice new concepts
