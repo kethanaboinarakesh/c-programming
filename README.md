@@ -1,10 +1,9 @@
-C programs Practice
 
 About This Repository
 
 This repository contains my C programming practice programs
 
-Topics Covered
+Topics Covered:
 
 - For Loop
 - While Loop
@@ -19,18 +18,16 @@ Topics Covered
 - Strings 
 - Functions
 
-Difficulty Levels
+Difficulty Levels:
 
 - Beginner
 - Intermediate
 - Advanced
 
-Objective
+Objective:
 
 My goal is to improve my logical thinking, problem-solving skills, and developing code in C programming.
 
-Language
+Language:
 
 C Programming
-
-I will continue adding programs as I learn and practice new concept.
